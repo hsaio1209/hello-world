@@ -1,5 +1,4 @@
 # hello-world
-For a better coding world
 
 Hello Every one!
 
